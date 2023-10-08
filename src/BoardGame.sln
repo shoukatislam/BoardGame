@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoardGame", "BoardGame\BoardGame.csproj", "{6775F2EA-E3D1-4E5C-9671-7489F9E62E25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoardGame.Tests", "BoardGame.Tests\BoardGame.Tests.csproj", "{DA8E64AC-EDDB-4C77-BD66-E41071CDA100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6775F2EA-E3D1-4E5C-9671-7489F9E62E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6775F2EA-E3D1-4E5C-9671-7489F9E62E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6775F2EA-E3D1-4E5C-9671-7489F9E62E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6775F2EA-E3D1-4E5C-9671-7489F9E62E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8E64AC-EDDB-4C77-BD66-E41071CDA100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8E64AC-EDDB-4C77-BD66-E41071CDA100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8E64AC-EDDB-4C77-BD66-E41071CDA100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8E64AC-EDDB-4C77-BD66-E41071CDA100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20D2ADF3-43FE-4B43-8B39-D84CD5E3B041}
+	EndGlobalSection
+EndGlobal

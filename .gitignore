@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/.vs/BoardGame/v17/TestStore/0
+/src/.vs/BoardGame
+bin
+obj
+
